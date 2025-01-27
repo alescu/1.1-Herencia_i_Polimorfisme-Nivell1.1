@@ -11,17 +11,21 @@ Descripció - Enunciat de l'exercici:
 
 
 Tecnologies Utilitzades:
-
+	Java
+	
 Requisits:
-
+	Java 22 o superior.
+	
 Instal·lació:
-
+	Cal instalar Java 22 o superior.
+	
 Execució
-    Instruccions per a l'execució del projecte un cop instal·lat.
-
-
+    Descarregar el projecte.
+	Compilar el projecte.
+	Executar el main.
+	
 Desplegament:
-    Instruccions per al desplegament del projecte en un entorn de producció o servidor.
+    Cal desplegar els compilats en el lloc determinat.
 
 Contribucions:
 	Llegeix aquest document.
